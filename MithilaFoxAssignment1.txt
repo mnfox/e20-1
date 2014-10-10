@@ -1,20 +1,25 @@
-
 What three styles/components did you use from the list above?
-- Glyphicons
 - Responsive utilities
 - Jumbotron
 - Buttons
-- navs
+- Navs
+
+What two JavaScript widgets did you use?
+- Carousel
+- Tabs
 
 What are the 5 (minimum) styles you customized with LESS CSS? What LESS partial file are they located in?
-1 carousel width has a maximum so that images don't become unmanagebly large when the browser is very wide
-2 images within carousels are kept in porportion to the images so they all appear consistently
-3 the margin above the jumbotron ensures it is not overlapped by the nav bar
+1 the margin above the jumbotron ensures it is not overlapped by the nav bar
+2 carousel width has a maximum so that images don't become unmanagebly large when the browser is very wide 
+3 images within carousels are kept in porportion to the images so they all appear consistently
 4 iframe customised so the embedded google map is responsive
 5 a customised .google-maps class that keeps the embedded google map maintains a usable aspect ratio
 6 a full-width class to ensure the non-glyph icons look appropriate sizes on all screen sizes
 
-
-What two JavaScript widgets did you use?
-- carousel
-- tabs
+Altered bootstap elements:
+1 the navbar default colour has changed
+2 the navbar brand text now appears highlighted against the background
+3 the navbar links are text-transformed to uppercase and have other custom font styling
+4 the jumbotron has a larger border-radius and custom margin
+5 the carousel has a custom size to match the images and prevent images from stretching beyond their native resolution
+6 the btn-default and btn-primary buttons have custom text styling and custom colours both in normal state and hover
